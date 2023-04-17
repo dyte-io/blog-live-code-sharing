@@ -1,0 +1,23 @@
+{
+    "name": "Collaborative-code-editor",
+    "version": "0.0.1",
+    "description": "Helps you pair program ",
+    "pluginId": "9da0deda-45d0-4f18-8ebc-c1dce262c11b",
+    "picture": "https://dyte-uploads.s3.ap-south-1.amazonaws.com/dyte.png",
+    "url": "https://9da0deda-45d0-4f18-8ebc-c1dce262c11b-latest.plugins.dyte.app",
+    "files": {
+        "include": [
+            "index.html",
+            "**/*"
+        ],
+        "exclude": [
+            "**/*.ts",
+            "*.md"
+        ]
+    },
+    "tags": [
+        "#plugin"
+    ],
+    "author": "",
+    "repository": ""
+}
